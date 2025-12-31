@@ -16,6 +16,10 @@ Key Responsibilities:
 - Tracks total batch execution time
 - Implements TRY/CATCH for error handling and logging
 
+Execution:
+----------
+		EXEC bronze.load_bronze
+
 Design Notes:
 -------------
 - BRONZE layer stores source-aligned, untransformed data
