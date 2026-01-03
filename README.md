@@ -1,4 +1,4 @@
-# sql-data-warehouse-analysis-project
+# sql-data-warehouse-analytics
 # SQL Data Warehouse & Advanced Analytics Project
 
 ## 📌 Project Overview
